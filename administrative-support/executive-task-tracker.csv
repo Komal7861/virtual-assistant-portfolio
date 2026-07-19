@@ -1,0 +1,9 @@
+Task ID,Task,Category,Priority,Assigned To,Start Date,Due Date,Status,Progress,Next Action,Notes
+T-001,Prepare weekly executive summary,Reporting,High,Virtual Assistant,2026-07-20,2026-07-21,In Progress,60%,Collect department updates,Submit before weekly meeting
+T-002,Schedule client review meeting,Calendar Management,High,Virtual Assistant,2026-07-20,2026-07-20,Completed,100%,Send meeting reminder,Calendar invitation confirmed
+T-003,Organize digital documents,File Management,Medium,Virtual Assistant,2026-07-20,2026-07-23,In Progress,40%,Rename and categorize files,Use consistent folder structure
+T-004,Research customer-support software,Research,Medium,Virtual Assistant,2026-07-21,2026-07-24,Not Started,0%,Compare five suitable tools,Include pricing and main features
+T-005,Follow up on pending invoices,Finance Administration,High,Virtual Assistant,2026-07-21,2026-07-22,Not Started,0%,Contact relevant clients,Record responses in payment tracker
+T-006,Update client contact database,Data Management,Low,Virtual Assistant,2026-07-22,2026-07-25,Not Started,0%,Verify contact information,Remove duplicate records
+T-007,Prepare monthly presentation,Presentation Support,Medium,Virtual Assistant,2026-07-23,2026-07-28,Not Started,0%,Create presentation outline,Awaiting final performance figures
+T-008,Review shared inbox,Email Management,High,Virtual Assistant,2026-07-20,2026-07-20,Completed,100%,Flag messages requiring approval,Urgent messages forwarded
